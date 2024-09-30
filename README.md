@@ -1,15 +1,30 @@
-# hello-world
+# SOW FATIMATOU 
+# numero etudiants : 32320813
+# groupe 2
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run src/index.ts
-```
-
-This project was created using `bun init` in bun v1.1.27. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+C:.
+│   index.ts
+│   Starship.ts
+│   Typeplanet.ts
+│
+├───Classes
+│       Cart.ts
+│       Citron.ts
+│       HuileOlive.ts
+│       Sucre.ts
+│       Tomate.ts
+│
+├───Interfaces
+│       Iproduct.ts
+│
+└───utils
+        flightCalculator.ts
+├───Interfaces
+│       Iproduct.ts
+│
+├───Interfaces
+├───Interfaces
+│       Iproduct.ts
+│
+└───utils
+        flightCalculator.ts
